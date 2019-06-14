@@ -1,0 +1,15 @@
+current directory: /Users/hikaru/Documents/DIVE/workspace/Rails1/rails_exam01_bugfix/vendor/bundle/gems/bootsnap-1.4.4/ext/bootsnap
+/Users/hikaru/.rbenv/versions/2.6.3/bin/ruby -I /Users/hikaru/.rbenv/versions/2.6.3/lib/ruby/2.6.0 -r ./siteconf20190614-22530-1f0q5q5.rb extconf.rb
+creating Makefile
+
+current directory: /Users/hikaru/Documents/DIVE/workspace/Rails1/rails_exam01_bugfix/vendor/bundle/gems/bootsnap-1.4.4/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/hikaru/Documents/DIVE/workspace/Rails1/rails_exam01_bugfix/vendor/bundle/gems/bootsnap-1.4.4/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/hikaru/Documents/DIVE/workspace/Rails1/rails_exam01_bugfix/vendor/bundle/gems/bootsnap-1.4.4/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20190614-22530-hqmhwt/bootsnap

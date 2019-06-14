@@ -1,0 +1,16 @@
+current directory: /Users/hikaru/Documents/DIVE/workspace/Rails1/rails_exam01_bugfix/vendor/bundle/gems/binding_of_caller-0.8.0/ext/binding_of_caller
+/Users/hikaru/.rbenv/versions/2.6.3/bin/ruby -I /Users/hikaru/.rbenv/versions/2.6.3/lib/ruby/2.6.0 -r ./siteconf20190614-22530-1vegd60.rb extconf.rb
+
+current directory: /Users/hikaru/Documents/DIVE/workspace/Rails1/rails_exam01_bugfix/vendor/bundle/gems/binding_of_caller-0.8.0/ext/binding_of_caller
+make "DESTDIR=" clean
+make: *** No rule to make target `clean'.  Stop.
+
+current directory: /Users/hikaru/Documents/DIVE/workspace/Rails1/rails_exam01_bugfix/vendor/bundle/gems/binding_of_caller-0.8.0/ext/binding_of_caller
+make "DESTDIR="
+echo "Nada."
+Nada.
+
+current directory: /Users/hikaru/Documents/DIVE/workspace/Rails1/rails_exam01_bugfix/vendor/bundle/gems/binding_of_caller-0.8.0/ext/binding_of_caller
+make "DESTDIR=" install
+echo "Nada."
+Nada.

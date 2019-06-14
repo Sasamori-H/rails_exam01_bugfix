@@ -1,0 +1,13 @@
+current directory: /Users/hikaru/Documents/DIVE/workspace/Rails1/rails_exam01_bugfix/vendor/bundle/gems/json-2.2.0/ext/json
+/Users/hikaru/.rbenv/versions/2.6.3/bin/ruby -I /Users/hikaru/.rbenv/versions/2.6.3/lib/ruby/2.6.0 -r ./siteconf20190614-22530-1cojugf.rb extconf.rb
+creating Makefile
+
+current directory: /Users/hikaru/Documents/DIVE/workspace/Rails1/rails_exam01_bugfix/vendor/bundle/gems/json-2.2.0/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/hikaru/Documents/DIVE/workspace/Rails1/rails_exam01_bugfix/vendor/bundle/gems/json-2.2.0/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/hikaru/Documents/DIVE/workspace/Rails1/rails_exam01_bugfix/vendor/bundle/gems/json-2.2.0/ext/json
+make "DESTDIR=" install

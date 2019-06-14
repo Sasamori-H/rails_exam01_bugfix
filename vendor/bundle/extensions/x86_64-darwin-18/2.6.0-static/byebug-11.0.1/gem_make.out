@@ -1,0 +1,19 @@
+current directory: /Users/hikaru/Documents/DIVE/workspace/Rails1/rails_exam01_bugfix/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+/Users/hikaru/.rbenv/versions/2.6.3/bin/ruby -I /Users/hikaru/.rbenv/versions/2.6.3/lib/ruby/2.6.0 -r ./siteconf20190614-22530-o0hqh1.rb extconf.rb
+creating Makefile
+
+current directory: /Users/hikaru/Documents/DIVE/workspace/Rails1/rails_exam01_bugfix/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/hikaru/Documents/DIVE/workspace/Rails1/rails_exam01_bugfix/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/hikaru/Documents/DIVE/workspace/Rails1/rails_exam01_bugfix/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20190614-22530-1t8gn9m/byebug
